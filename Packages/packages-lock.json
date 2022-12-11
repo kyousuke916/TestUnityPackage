@@ -6,6 +6,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.kyousuke916.package.test3": {
+      "version": "file:/Users/kyousuke916/Workspace/Unity/Test/Test_Package/com.kyousuke916.package.test3",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,
