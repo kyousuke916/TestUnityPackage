@@ -1,6 +1,6 @@
 {
     "name": "com.kyousuke916.package.test1",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "displayName": "Test Package",
     "description": "Practice Package",
     "unity": "2021.3",

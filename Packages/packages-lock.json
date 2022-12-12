@@ -6,8 +6,8 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.kyousuke916.package.test3": {
-      "version": "file:/Users/kyousuke916/Workspace/Unity/Test/Test_Package/com.kyousuke916.package.test3",
+    "com.kyousuke916.package.test2": {
+      "version": "file:/Users/kyousuke916/Workspace/Unity/Test/Test_Package/TestUnityPackage2",
       "depth": 0,
       "source": "local",
       "dependencies": {}
